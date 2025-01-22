@@ -1,6 +1,4 @@
 
-#! C:\FS\AIEco\Rules Based AI project\Tic-tac-toe-AI-engine\tic-tac-toe-ai-engine.py
-
 def print_board(board):
     """
     Displays the current Tic-Tac-Toe board in a 3x3 grid format.
